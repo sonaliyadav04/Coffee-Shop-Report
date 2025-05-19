@@ -15,6 +15,9 @@ This repository presents a comprehensive **Coffee Shop Sales Dashboard** designe
 
 
 ---
+For Report and Data -[Click Here](https://1drv.ms/x/c/a51016d50e3ba61c/Ee9Wp1I2CJdEtepZpRp3oNYBEXqktKNIyzd_v_)
+
+
 
 ## 📊 Key Highlights
 
